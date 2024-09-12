@@ -12,7 +12,7 @@ Este projeto é uma calculadora simples desenvolvida em JavaScript, demonstrando
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-simples.git
+   git clone https://github.com/gilleady/calculadora-javascript.git
    ```
 
 2. **Abra o arquivo index.html em um navegador web:**
