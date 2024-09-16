@@ -16,7 +16,7 @@ const operations = {
   "+": (a, b) => a + b,
   "-": (a, b) => a - b,
   "*": (a, b) => a * b,
-  "/": (a, b) => (b === 0) ? "Erro: Divisão por zero!" : a / b
+  "/": (a, b) => (b == 0) ? "Erro: Divisão por zero!" : a / b
 };
 
 //Arrow Function
